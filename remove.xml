@@ -10,8 +10,6 @@
   <remove-project name="platform/bootable/recovery" />
   <remove-project name="platform/compatibility/cdd" />
   <remove-project name="platform/cts" />
-  <remove-project name="platform/developers/demos" />
-  <remove-project name="platform/developers/samples/android" />
   <remove-project name="device/generic/uml" />
   <remove-project name="device/common" />
   <remove-project name="device/generic/arm64" />
